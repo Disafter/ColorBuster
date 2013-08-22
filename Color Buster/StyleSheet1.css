@@ -1,0 +1,48 @@
+﻿body
+{
+    
+.bigbox{
+  width:300px;
+  height:300px;
+  border:solid black 4px;
+  background:black;
+  border-radius:8px;
+  
+}
+.lilbox{
+  width:94px;
+  height:94px;
+  border:solid black 3px;
+  display:inline-block;
+  margin:0px;
+  padding:0px;
+  float:left;
+  border-radius:10px;
+}
+.rowbox{
+  width:300px;
+  height:100px;
+  display:block;
+  margin:0px;
+  padding:0px;
+}
+
+.red{
+  background:red;
+}
+
+.green{
+  background:green;
+}
+
+.blue{
+  background:blue;
+}
+
+.yellow{
+  background:yellow;
+}
+
+
+
+}
